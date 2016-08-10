@@ -1,0 +1,1 @@
+Important to note that the .bat file may need to be changed to launch love2D depending on where it was installed.
